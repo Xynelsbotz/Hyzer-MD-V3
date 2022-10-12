@@ -1,16 +1,16 @@
 //=============『 Utama 』================== //
-global.owner = ['18077002608'] 
+global.owner = ['6285854337533'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ᴛͦɪᷫsᷫᴜͥᴅͨᴇͥᴍᷧᴏᷝɴོ'
-global.numberowner = '18077002608'
+global.numberowner = '085854337533'
 global.instagram = 'https://instagram.com/__.iam_akshay.__?igshid=YmMyMTA2M2Y='
 global.github = 'https://github.com/4K5H475ER'
-global.dana = '18077002608'
-global.pulsa = '18077002608'
-global.gopay = '18077002608'
+global.dana = '085854337533'
+global.pulsa = '085854337533'
+global.gopay = '085854337533'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'ShiroBot-Md'
